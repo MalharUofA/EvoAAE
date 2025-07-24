@@ -3,6 +3,8 @@ Evolutionary Adversarial Autoencoder for Unsupervised Anomaly Detection: Prototy
 
 A cutting-edge unsupervised anomaly detection system combining **Variational Autoencoders (VAE)**, **Generative Adversarial Networks (GAN)**, and **Particle Swarm Optimization (PSO)** for industrial control systems.
 
+EVOAAE article : https://ieeexplore.ieee.org/document/10854883 
+
 <p align="center">
   <img src="assets/architecture.png" alt="EvoAAE Architecture" width="600">
 </p>
