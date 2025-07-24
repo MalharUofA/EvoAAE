@@ -1,0 +1,15 @@
+# Folders to exclude
+dataset_prep/
+uploads/
+evoaae_env/
+
+# Python files to exclude
+prepare_dataset.py
+PSO.py
+improved_model.py
+
+# OS/IDE-generated files to ignore
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
