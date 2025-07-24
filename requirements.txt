@@ -66,4 +66,3 @@ tzdata==2025.2
 urllib3==2.5.0
 Werkzeug==2.3.7
 wrapt==1.17.2
-gunicorn app:app
