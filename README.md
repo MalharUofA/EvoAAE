@@ -71,7 +71,7 @@ Automatically optimizes critical hyperparameters:
 - **Automated Scaling**:
   - Built-in data preprocessing
   - Automatic normalization
-## 🛠️ Installation
+## Installation
 
 ### Prerequisites
 - **Python 3.11.4** (Recommended)
